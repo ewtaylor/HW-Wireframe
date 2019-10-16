@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 color: #777777;
@@ -72,3 +73,65 @@ text-align: center;
   
 
 
+=======
+
+
+
+
+h1 {
+  /* Put a 15-pixel margin at the bottom of the heading. */
+  margin-bottom: 15px;
+  /* Change the size of your font to 60 pixels high. */
+  font-size: 18px;
+  /* This will color the heading font white. */
+  color: black;
+  /* Align the text to the center of its enclosing element (e.g. div). */
+  text-align: center;
+  /* Underline the text. */
+  text-decoration: underline;
+  /* The background of the heading element will now be black. */
+  background-color:#777;
+
+  
+
+
+}
+.october {
+ 
+  background: lightgray;
+  width: 35%;
+  padding: 50px;
+  margin: 150px; 
+}
+.october article {
+  
+  background: white;
+  color: black;
+  padding: 20px;
+  margin: 20px auto;
+
+
+
+ }
+
+ .Aside {
+   float: right;
+   background: lightgray;
+  width: 35%;
+  padding: 50px;
+  margin: 150px; 
+}
+.Aside article {
+  
+  background: white;
+  color: black;
+  padding: 20px;
+  margin: 20px auto;
+
+ }
+  
+ 
+  
+
+
+>>>>>>> 9c43893056d5e3f033afa5518932f052fe9a7733
